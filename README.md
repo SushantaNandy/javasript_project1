@@ -1,6 +1,9 @@
 # javasript_project1
 This project Guess The Number works on DOM manipulation using Java Script. 
 
+# If you want to play this game online then go in the link below.
+https://sushantanandy.github.io/javasript_project1/
+
 # Screen Shot of my project.
 <img width="1423" alt="Screenshot 2023-09-17 at 10 39 50 AM" src="https://github.com/SushantaNandy/javasript_project1/assets/99649278/b545bdc0-146c-4091-9d8a-2021b4b93cfc">
 
